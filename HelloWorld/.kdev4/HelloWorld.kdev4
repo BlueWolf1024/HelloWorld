@@ -1,0 +1,26 @@
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/wst/Github/HelloWorld/HelloWorld/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=helloworld
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Project Target=HelloWorld,helloworld
+Working Directory=file:///home/wst/Github/HelloWorld/HelloWorld/build/
+isExecutable=false

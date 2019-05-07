@@ -1,0 +1,4 @@
+[Project]
+Name=HelloWorld
+Manager=KDevCMakeManager
+VersionControl=
